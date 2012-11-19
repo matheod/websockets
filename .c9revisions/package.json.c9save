@@ -1,1 +1,2 @@
 {"ts":1353282222824,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"{\r\n  \"name\": \"websockets\",                                              \r\n  \"version\": \"0.0.1\",\r\n  \"dependencies\":\r\n  {\r\n    \"socket.io\": \">= 0.8.7\"\r\n  }\r\n}"]],"start1":0,"start2":0,"length1":0,"length2":156}]],"length":156}
+{"contributors":[],"silentsave":false,"ts":1353283453874,"patch":[[{"diffs":[[0,"\": \""],[-1,">= 0.8.7"],[1,"0.9.6"],[0,"\"\r\n "]],"start1":135,"start2":135,"length1":16,"length2":13}]],"length":153,"saved":false}
